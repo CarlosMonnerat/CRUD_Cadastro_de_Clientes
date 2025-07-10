@@ -5,7 +5,7 @@
 }
 
 :root{
-    --primary-color: #FFBA00;
+    --primary-color: #1c1c1b;
     --secundary-color: #FFF1CC;
     --shadow-color: #CCC;
     --text-color: #FFF;
@@ -28,7 +28,7 @@ header{
 }
 
 .header-title{
-    color: black;
+    color: var(--secundary-color);
     font-size: 2rem;
 }
 

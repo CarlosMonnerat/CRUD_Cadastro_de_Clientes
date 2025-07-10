@@ -4,9 +4,6 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 
 ## 🎥 Demonstração
 
-> Insira aqui seu vídeo de apresentação (formato `.mp4`).  
-> Exemplo de como incorporar o vídeo:
-
 ```html
 <video width="100%" controls>
   <source src="./assets/video/blackhole.mp4" type="video/mp4">
@@ -31,8 +28,6 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 Para visualizar o projeto em funcionamento, basta clicar no link abaixo:
 
 👉 [**Acessar o site**](https://www.youtube.com/)
-
-> Substitua o link acima pelo endereço real do projeto.
 
 ---
 

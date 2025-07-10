@@ -1,4 +1,4 @@
-# 📋 CRUD de Cadastro de Clientes
+# 📋 CRUD: Cadastro de Clientes
 
 Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gerenciamento de clientes, desenvolvida com **HTML**, **CSS** e **JavaScript puro** (Vanilla JS), sem dependências externas ou frameworks.
 

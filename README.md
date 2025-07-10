@@ -4,12 +4,7 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 
 ## 🎥 Demonstração
 
-```html
-<video width="100%" controls>
-  <source src="./assets/video/blackhole.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
-```
+![Demonstração do projeto](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVrZXhhYXB1ZGN1c2t1ZGRqOGg4aXZiODgzM2FpY3NsODVpNjZybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQdG7W1n5bJWM/giphy.gif)
 
 ---
 

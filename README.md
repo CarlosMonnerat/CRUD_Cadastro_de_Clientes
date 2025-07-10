@@ -25,7 +25,8 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 
 Para visualizar o projeto em funcionamento, basta clicar no link abaixo:
 
-👉 [**Acessar o site**](https://carlosmonnerat.github.io/CRUD_Cadastro_de_Clientes/)
+👉 <a href="https://carlosmonnerat.github.io/CRUD_Cadastro_de_Clientes/" target="_blank"><strong>Acessar o site</strong></a>
+
 
 ---
 

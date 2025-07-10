@@ -5,7 +5,7 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="./assets/video/crud.gif" width="600" alt="Demonstração do projeto">
+  <img src="./assets/gif/crud.gif" width="600" alt="Demonstração do projeto">
 </p>
 
 

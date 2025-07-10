@@ -5,7 +5,7 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 ## 🎥 Demonstração
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVrZXhhYXB1ZGN1c2t1ZGRqOGg4aXZiODgzM2FpY3NsODVpNjZybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKsQdG7W1n5bJWM/giphy.gif" width="600" alt="Demonstração do projeto">
+  <img src="./assets/video/crud.gif" width="600" alt="Demonstração do projeto">
 </p>
 
 
@@ -25,7 +25,7 @@ Uma aplicação web simples de **CRUD (Create, Read, Update, Delete)** para gere
 
 Para visualizar o projeto em funcionamento, basta clicar no link abaixo:
 
-👉 [**Acessar o site**](https://carlosmonnerat.github.io/CRUD_Cadastro_de_Clientes/)
+👉 [**Acessar o site**]()
 
 ---
 
